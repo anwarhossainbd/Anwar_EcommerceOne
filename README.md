@@ -19,13 +19,7 @@
   <li> Font-awesome </li>
  
 </ul>
-
-
-<br />
-<br />
-
-  
-​
+ 
 <h3> Screenshots </h3>
 <hr />
 <br />
